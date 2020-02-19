@@ -1,2 +1,1 @@
-# Terraform_Cloud_AWS
-TerraformCloud using AWS
+# Using Terraform Cloud on AWS
